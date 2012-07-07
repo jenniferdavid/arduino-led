@@ -1,0 +1,5 @@
+##### ranjanashish: Arduino Sketch Ignore List #####
+
+# ignore standard stuff
+*~
+*.o

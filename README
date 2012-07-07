@@ -1,0 +1,33 @@
+Repository: arduino-led
+
+Application Name: Arduino Bluetooth LED
+
+Version: 1.0
+
+It is an Arduino sketch for LED Control using Android Application.
+
+License
+=======
+GNU GPL v3.0
+http://www.gnu.org/licenses/gpl-3.0.txt
+
+Release Notes
+=============
+
+
+Details
+=======
+Android
+	Android API: 10
+	SDK Version: 20
+	SPP UUID   : 00001101-0000-1000-8000-00805F9B34FB
+Arduino
+	Arduino          : Arduino Mega 2560
+	Bluetooth Module : BTBee
+	Default Baud Rate: 57600
+
+Known Issues
+============
+No issues.
+
+ -- ranjanashish
